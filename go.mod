@@ -1,4 +1,4 @@
-module github.com/prateek96/ds
+module github.com/Prateek-Pandey-96/ds
 
 go 1.24.1
 
